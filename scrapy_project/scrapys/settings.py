@@ -135,6 +135,6 @@ LOG_FILE = '../log/baidu.log'
 MYSQL_HOST = '127.0.0.1'
 MYSQL_DBNAME = 'user'         #数据库名字，请修改
 MYSQL_USER = 'root'             #数据库账号，请修改
-MYSQL_PASSWD = 'llg911025'         #数据库密码，请修改
+MYSQL_PASSWD = 'xxx'         #数据库密码，请修改
 
 MYSQL_PORT = 3306               #数据库端口，在dbhelper中使用
