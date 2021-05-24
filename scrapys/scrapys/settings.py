@@ -116,7 +116,7 @@ ITEM_PIPELINES = {
 # 增加显示文件为中文　scrapy crawl baidu -o test.json
 FEED_EXPORT_ENCODING = 'utf-8'
 
-# 设置日志显示级别
+# 设置日志显示级别(与手动声明模块二选其一即可)
 # CRITICAL - 严重错误
 # ERROR - 一般错误
 # WARNING - 警告信息
