@@ -13,7 +13,7 @@ conda install scrapy
 ```
 scrapy genspider 爬虫名　网站域名(如：baidu.com)
 scrapy genspider -t crawl 爬虫名 网站域名
-scrapy crawl dmoz　运行项目
+scrapy crawl 爬虫名(运行项目)
 
 ```
 
