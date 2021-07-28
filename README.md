@@ -9,12 +9,12 @@ conda install scrapy
 ```
 
 
-创建spider爬虫文件
-```
+创建scrapy项目及spider爬虫文件
+``
+scrapy startproject 项目名
 scrapy genspider 爬虫名　网站域名(如：baidu.com)
 scrapy genspider -t crawl 爬虫名 网站域名
 scrapy crawl 爬虫名(运行项目)
-
 ```
 
 
